@@ -11,7 +11,6 @@ This repository contains all the technical test to validate skills in the backen
 * [About](#about)
 * [Requirements](#requirements)
 * [Installation](#installation)
-* [Projects](#projects)
 * [Author](#author)
 
 ## About
