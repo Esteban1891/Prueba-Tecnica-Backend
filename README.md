@@ -14,7 +14,7 @@ This repository contains all the technical test to validate skills in the backen
 * [Author](#author)
 
 ## About
-You are on your way to getting to know the backend of the Sisben virtual office! These are some things you will want to see.
+You are on your way to getting to know the backend
 
 1. **python/django installation:** :black_nib:
 * How to install django
