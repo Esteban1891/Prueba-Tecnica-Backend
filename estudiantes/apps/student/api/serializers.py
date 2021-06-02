@@ -13,6 +13,7 @@ class StudentDetailSerializer(serializers.ModelSerializer):
     class Meta:
         model = Student
         fields = ('autoevaluation',)
+
     def validate(self, attrs):
             autoevaluation = attrs.get('autoevaluation', '')
             
@@ -27,6 +28,7 @@ class AdminDetailSerializer(serializers.ModelSerializer):
     class Meta:
         model = Student
         fields = ('note',)
+        
     def validate(self, attrs):
             note = attrs.get('note', '')
 
